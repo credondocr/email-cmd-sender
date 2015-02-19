@@ -30,7 +30,8 @@ Easy way for send email via command line
 
 # Options
 
- -attach VAL     : Sets a attach pat<br/>
+ -attach VAL     : Sets a attach path file * Not required
+ <br/>
  -content VAL    : Sets a content
  <br/>
  -mail VAL       : Sets the mail
