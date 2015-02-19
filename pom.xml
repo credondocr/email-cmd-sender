@@ -67,7 +67,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.redondo.email_cmd_sender.EmailNotifier</mainClass>
+							<mainClass>com.redondocr.email_cmd_sender.EmailNotifier</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
