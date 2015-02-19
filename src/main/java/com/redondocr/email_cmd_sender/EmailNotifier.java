@@ -1,4 +1,4 @@
-package com.redondo.email_cmd_sender;
+package com.redondocr.email_cmd_sender;
 
 import javax.mail.MessagingException;
 import javax.mail.internet.AddressException;
