@@ -42,3 +42,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 /target/
+/.project
+/dependency-reduced-pom.xml
+/.settings
+/target
+/.classpath
+/.gitattributes
